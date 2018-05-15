@@ -4,6 +4,7 @@
 package com.cgc.callCenter.main;
 
 /**
+ * Clase enum que limita la creación de objetos, solo se permiten OPERADOR, SUPERVISOR, DIRECTOR
  * @author camilogc
  *
  */
